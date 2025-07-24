@@ -1,0 +1,14 @@
+{
+  "labels":[
+    "send_message",
+    "weather_query",
+    "emergency_call",
+    "play_music",
+    "exit_app",
+    "open_maps",
+    "camera_launch",
+    "set_alarm"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}
